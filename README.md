@@ -1,2 +1,4 @@
 # git-test
-testruby
+
+
+ESTE ES EL PRIMER PROYECTO GIT DE LA MAKa
